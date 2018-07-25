@@ -31,7 +31,7 @@ We will be using the Microsoft Bot Framework NodeJS SDK to build the bot web ser
 Your challenge is to create a Service Bot using the Azure Portal and navigate through the different options and properties.
 
 ## Success Criteria
-You should be able to test your service bot using [Web Chat](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-test-webchat?view=azure-bot-service-3.0) oe Bot Emulator. Your basic bot should respond at least an echo message.
+You should be able to test your service bot using [Web Chat](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-test-webchat?view=azure-bot-service-3.0) or Bot Emulator. Your basic bot should respond at least an echo message.
 
 ![webchat.png](images/webchat.png) 
 ## References
@@ -119,9 +119,9 @@ Your ''conversational intelligence'' service should extract intent and entities 
 Review the references and documentation below.
 
 ##  Success Criteria
-You should be able to test your bot, it should respond something about the intent you are asking: airports or hotels.
+You should be able to test your bot, it should respond something about the intent you are asking. You should test it by using Web Chat or Emulator.
 
-![bot-luis.png](images/bot-luis.png)
+![bot-qna.png](images/bot-qna.png)
 ## References
 
 You should create an account at [LUIS.ai USA](https://luis.ai) or [LUIS.ai in EU](https://eu.luis.ai).
@@ -171,14 +171,15 @@ Read these resources for more information about the Microsoft Bot Framework, Bot
 
 ## Challenge
 
-You should create a bot that could response to different questions about airports and hotel accomodation in different cities.
+You should create a bot that could response to different questions about hotel accomodation in different cities.
 
 Your ''conversational intelligence'' service should extract your question from a knowledge data base and feeds the result to your bot.
 
 Review the references and documentation below.
 
 ##  Success Criteria
-You should be able to test your bot using your QnA knowledge base, it should respond question about airports or hotels.
+You should be able to test your bot using your QnA knowledge base, it should respond question about hotels.
+
 
 
 ## References
@@ -186,9 +187,9 @@ You should be able to test your bot using your QnA knowledge base, it should res
 You should create a knowledge base at [QnA Maker](https://qnamaker.ai). Log in to QnAMaker.ai with your Azure credentials.
 This is a free tool under Cognitive Services with a limit of 10,000 transactions per month, 10 per minute.
 
-Create a QnA Maker service [Ref](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/how-to/set-up-qnamaker-service-azure)
+* Create a QnA Maker service [Ref](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/how-to/set-up-qnamaker-service-azure)
 
-Create a QnA Bot Service [Ref](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-qna-bot)
+* Create a QnA Bot Service [Ref](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-qna-bot)
 
 Alternative: you can create everything by code using QnA API
 * [NodeJs](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/quickstarts/nodejs)
