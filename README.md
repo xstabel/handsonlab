@@ -1,8 +1,8 @@
 ![bots-1.jpg](images/bots-1.jpg)
 
-# Hands On Lab July 26 2018
-
-# Overview Bot Framework 
+# Hands On Lab 
+# Basic Level for Bots on Azure
+# Overview Bot Framework
 Microsoft Bot Framework is a comprehensive offering to build and deploy high quality bots for your users to enjoy in their favorite conversation experiences. Developers writing bots all face the same problems: bots require basic I/O; they must have language and dialog skills; they must be performant, responsive and scalable; and they must connect to users – ideally in any conversation experience and language the user chooses. Bot Framework provides just what you need to build, connect, manage and publish intelligent bots that interact naturally wherever your users are talking – from text/sms to Skype, Slack, Facebook Messenger, Kik, Office 365 mail and other popular services. This lab will show you how to build a basic bot, connect it to a LUIS model, and get responses back.  
 
 ### Objectives 
