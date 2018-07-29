@@ -1,4 +1,5 @@
 ![bots-1.jpg](images/bots-1.jpg)
+_Image Credit: maxuser / Shutterstock_
 
 # Hands On Lab 
 # Basic Level for Bots on Azure
